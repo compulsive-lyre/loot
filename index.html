@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Loot Generator</title>
+		<link rel="stylesheet" type="text/css" href="styles.css" />
+	</head>
+
+	<body>
+		<div class="container">
+			<div class="button-container">
+				<button id="rollButton">Generate Loot</button>
+			</div>
+			<p id="result"></p>
+		</div>
+		<div class="table-container">
+			<table id="probabilitiesTable">
+				<thead>
+					<tr>
+						<th>Category</th>
+						<th>Percent Chance</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Treasure</td>
+						<td>5%</td>
+					</tr>
+					<tr>
+						<td>Consumables</td>
+						<td>10%</td>
+					</tr>
+					<tr>
+						<td>Equipment</td>
+						<td>10%</td>
+					</tr>
+					<tr>
+						<td>Common Magic Items</td>
+						<td>25%</td>
+					</tr>
+					<tr>
+						<td>Uncommon Magic Items</td>
+						<td>20%</td>
+					</tr>
+					<tr>
+						<td>Rare Magic Items</td>
+						<td>15%</td>
+					</tr>
+					<tr>
+						<td>Very Rare Magic Items</td>
+						<td>8%</td>
+					</tr>
+					<tr>
+						<td>Legendary Magic Items</td>
+						<td>2%</td>
+					</tr>
+					<!-- Additional rows for future categories can be added here -->
+				</tbody>
+			</table>
+		</div>
+		<script src="script.js"></script>
+	</body>
+</html>

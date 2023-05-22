@@ -1,0 +1,69 @@
+body {
+	background-color: darkgray;
+	color: white;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 40vh;
+}
+
+.button-container {
+	margin-top: 20px;
+}
+
+#rollButton {
+	background-color: #454545;
+	color: white;
+	font-size: 20px;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#rollButton:hover {
+	background-color: #555555;
+}
+
+#result {
+	font-size: 36px;
+	margin-top: 30px;
+	padding-top: 30px;
+	text-align: center;
+}
+
+.table-container {
+	margin-top: 100px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 400px;
+	margin: 0 auto;
+}
+
+th {
+	background-color: #454545;
+	color: white;
+	font-weight: bold;
+	padding: 10px;
+	text-align: left;
+}
+
+td {
+	background-color: #606060;
+	color: white;
+	padding: 8px;
+	text-align: left;
+}
+
+.left-align {
+	padding-left: 20px;
+}
