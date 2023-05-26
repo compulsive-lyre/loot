@@ -461,11 +461,6 @@
 	},
 	{
 		"Category": "Uncommon Magic Item",
-		"Name": "Bag of Tricks",
-		"Description": "#N/A"
-	},
-	{
-		"Category": "Uncommon Magic Item",
 		"Name": "Bag of Tricks, Gray",
 		"Description": "This ordinary bag, made from gray cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.\nYou can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table. The creature vanishes at the next dawn or when it is reduced to 0 hit points.\nThe creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature."
 	},
@@ -636,11 +631,6 @@
 	},
 	{
 		"Category": "Uncommon Magic Item",
-		"Name": "Elemental Gem",
-		"Description": "#N/A"
-	},
-	{
-		"Category": "Uncommon Magic Item",
 		"Name": "Elemental Gem, Blue Sapphire",
 		"Description": "This gem contains a mote of elemental energy. When you use an action to break the gem, an air elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost.\n\n"
 	},
@@ -739,11 +729,7 @@
 		"Name": "Guardian Emblem",
 		"Description": "This emblem is the symbol of a deity or a spiritual tradition. As an action, you can attach the emblem to a suit of armor or a shield or remove it.\nThe emblem has 3 charges. When you or a creature you can see within 30 feet of you suffers a critical hit while you're wearing the armor or wielding the shield that bears the emblem, you can use your reaction to expend 1 charge to turn the critical hit into a normal hit instead.\nThe emblem regains all expended charges daily at dawn."
 	},
-	{
-		"Category": "Uncommon Magic Item",
-		"Name": "Guild Signet",
-		"Description": "#N/A"
-	},
+
 	{
 		"Category": "Uncommon Magic Item",
 		"Name": "Harkon's Bite",
@@ -977,7 +963,7 @@
 	{
 		"Category": "Uncommon Magic Item",
 		"Name": "Potion of Force Resistance",
-		"Description": "{#itemEntry Potion of Resistance\n\n"
+		"Description": "When you drink this potion, you gain resistance to force damage for 1 hour.\n\n"
 	},
 	{
 		"Category": "Uncommon Magic Item",
@@ -997,12 +983,12 @@
 	{
 		"Category": "Uncommon Magic Item",
 		"Name": "Potion of Lightning Resistance",
-		"Description": "{#itemEntry Potion of Resistance\n\n"
+		"Description": "When you drink this potion, you gain resistance to lightning damage for 1 hour.\n\n"
 	},
 	{
 		"Category": "Uncommon Magic Item",
 		"Name": "Potion of Necrotic Resistance",
-		"Description": "{#itemEntry Potion of Resistance\n\n"
+		"Description": "When you drink this potion, you gain resistance to necrotic damage for 1 hour.\n\n"
 	},
 	{
 		"Category": "Uncommon Magic Item",
@@ -1012,27 +998,23 @@
 	{
 		"Category": "Uncommon Magic Item",
 		"Name": "Potion of Poison Resistance",
-		"Description": "{#itemEntry Potion of Resistance\n\n"
+		"Description": "When you drink this potion, you gain resistance to poison damage for 1 hour.\n\n"
 	},
 	{
 		"Category": "Uncommon Magic Item",
 		"Name": "Potion of Psychic Resistance",
-		"Description": "{#itemEntry Potion of Resistance\n\n"
+		"Description": "When you drink this potion, you gain resistance to psychic damage for 1 hour.\n\n"
 	},
 	{
 		"Category": "Uncommon Magic Item",
 		"Name": "Potion of Radiant Resistance",
-		"Description": "{#itemEntry Potion of Resistance\n\n"
+		"Description": "When you drink this potion, you gain resistance to radiant damage for 1 hour.\n\n"
 	},
-	{
-		"Category": "Uncommon Magic Item",
-		"Name": "Potion of Resistance",
-		"Description": "#N/A"
-	},
+
 	{
 		"Category": "Uncommon Magic Item",
 		"Name": "Potion of Thunder Resistance",
-		"Description": "{#itemEntry Potion of Resistance\n\n"
+		"Description": "When you drink this potion, you gain resistance to thunder damage for 1 hour.\n\n"
 	},
 	{
 		"Category": "Uncommon Magic Item",
@@ -2922,7 +2904,7 @@
 	{
 		"Category": "Very Rare Magic Item",
 		"Name": "Cold Absorbing Tattoo",
-		"Description": "{#itemEntry Absorbing Tattoo\n\n"
+		"Description": "Produced by a special needle, this magic tattoo features designs that emphasize one color (blue).\n\nTattoo Attunement.\n\nTo attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.\n\nIf your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space.\n\nDamage Resistance.\n\nWhile the tattoo is on your skin, you have resistance to cold damage.\n\nDamage Absorption.\n\nWhen you take cold damage, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can't be used again until the next dawn."
 	},
 	{
 		"Category": "Very Rare Magic Item",
@@ -3027,7 +3009,7 @@
 	{
 		"Category": "Very Rare Magic Item",
 		"Name": "Fire Absorbing Tattoo",
-		"Description": "{#itemEntry Absorbing Tattoo\n\n"
+		"Description": "Produced by a special needle, this magic tattoo features designs that emphasize one color (red).\n\nTattoo Attunement.\n\nTo attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.\n\nIf your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space.\n\nDamage Resistance.\n\nWhile the tattoo is on your skin, you have resistance to force damage.\n\nDamage Absorption.\n\nWhen you take force damage, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can't be used again until the next dawn."
 	},
 	{
 		"Category": "Very Rare Magic Item",
@@ -3037,7 +3019,7 @@
 	{
 		"Category": "Very Rare Magic Item",
 		"Name": "Force Absorbing Tattoo",
-		"Description": "{#itemEntry Absorbing Tattoo\n\n"
+		"Description": "Produced by a special needle, this magic tattoo features designs that emphasize one color (white).\n\nTattoo Attunement.\n\nTo attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.\n\nIf your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space.\n\nDamage Resistance.\n\nWhile the tattoo is on your skin, you have resistance to cold damage.\n\nDamage Absorption.\n\nWhen you take cold damage, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can't be used again until the next dawn."
 	},
 	{
 		"Category": "Very Rare Magic Item",
@@ -3162,7 +3144,7 @@
 	{
 		"Category": "Very Rare Magic Item",
 		"Name": "Lightning Absorbing Tattoo",
-		"Description": "{#itemEntry Absorbing Tattoo\n\n"
+		"Description": "Produced by a special needle, this magic tattoo features designs that emphasize one color (yellow).\n\nTattoo Attunement.\n\nTo attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.\n\nIf your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space.\n\nDamage Resistance.\n\nWhile the tattoo is on your skin, you have resistance to lightning damage.\n\nDamage Absorption.\n\nWhen you take lightning damage, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can't be used again until the next dawn."
 	},
 	{
 		"Category": "Very Rare Magic Item",
