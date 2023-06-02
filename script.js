@@ -76,3 +76,22 @@ fetch("data.json")
 	.catch((error) => {
 		console.error("Error fetching data.json:", error);
 	});
+// Function to copy the generated text to the clipboard
+function copyTextToClipboard() {
+	const resultElement = document.getElementById("result");
+	const text = resultElement.innerText;
+  
+	navigator.clipboard.writeText(text)
+	  .then(() => {
+		console.log("Text copied to clipboard");
+		// You can also display a success message or perform any other actions here
+	  })
+	  .catch((error) => {
+		console.error("Error copying text to clipboard:", error);
+		// You can display an error message or handle the error gracefully here
+	  });
+  }
+  
+  // Add event listener to the result element for click events
+  document.getElementById("result").addEventListener("click", copyTextToClipboard);
+  
